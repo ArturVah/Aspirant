@@ -1,0 +1,12 @@
+C:\Users\Artur\Documents\Visual Studio 2008\Projects\AspirantSearch\AspirantSearch\bin\Debug\AspirantSearch.exe
+C:\Users\Artur\Documents\Visual Studio 2008\Projects\AspirantSearch\AspirantSearch\bin\Debug\AspirantSearch.pdb
+C:\Users\Artur\Documents\Visual Studio 2008\Projects\AspirantSearch\AspirantSearch\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Artur\Documents\Visual Studio 2008\Projects\AspirantSearch\AspirantSearch\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Artur\Documents\Visual Studio 2008\Projects\AspirantSearch\AspirantSearch\obj\Debug\AspirantSearch.AspirantSearchingSystem.resources
+C:\Users\Artur\Documents\Visual Studio 2008\Projects\AspirantSearch\AspirantSearch\obj\Debug\AspirantSearch.Properties.Resources.resources
+C:\Users\Artur\Documents\Visual Studio 2008\Projects\AspirantSearch\AspirantSearch\obj\Debug\AspirantSearch.csproj.GenerateResource.Cache
+C:\Users\Artur\Documents\Visual Studio 2008\Projects\AspirantSearch\AspirantSearch\obj\Debug\AspirantSearch.exe
+C:\Users\Artur\Documents\Visual Studio 2008\Projects\AspirantSearch\AspirantSearch\obj\Debug\AspirantSearch.pdb
+C:\Users\Artur\Documents\Visual Studio 2008\Projects\AspirantSearch\AspirantSearch\bin\Debug\SQLite.Designer.dll
+C:\Users\Artur\Documents\Visual Studio 2008\Projects\AspirantSearch\AspirantSearch\bin\Debug\SQLite.Designer.pdb
+C:\Users\Artur\Documents\Visual Studio 2008\Projects\AspirantSearch\AspirantSearch\bin\Debug\SQLite.Designer.xml
