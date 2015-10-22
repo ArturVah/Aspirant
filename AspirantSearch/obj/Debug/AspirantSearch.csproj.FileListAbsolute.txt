@@ -10,3 +10,5 @@ C:\Users\Artur\Documents\Visual Studio 2008\Projects\AspirantSearch\AspirantSear
 C:\Users\Artur\Documents\Visual Studio 2008\Projects\AspirantSearch\AspirantSearch\bin\Debug\SQLite.Designer.dll
 C:\Users\Artur\Documents\Visual Studio 2008\Projects\AspirantSearch\AspirantSearch\bin\Debug\SQLite.Designer.pdb
 C:\Users\Artur\Documents\Visual Studio 2008\Projects\AspirantSearch\AspirantSearch\bin\Debug\SQLite.Designer.xml
+D:\Arthur\C#\AspirantSearch\AspirantSearch\obj\Debug\AspirantSearch.exe
+D:\Arthur\C#\AspirantSearch\AspirantSearch\obj\Debug\AspirantSearch.pdb
